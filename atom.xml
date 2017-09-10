@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog for lantaozi</title>
+  <title>lantaozi</title>
   <subtitle>About technology and money</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://www.lantaozi.me/"/>
   <updated>2017-09-03T15:38:46.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://www.lantaozi.me/</id>
   
   <author>
     <name>lantaozi</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/03/hello-world/"/>
-    <id>http://yoursite.com/2017/09/03/hello-world/</id>
+    <link href="https://www.lantaozi.me/2017/09/03/hello-world/"/>
+    <id>https://www.lantaozi.me/2017/09/03/hello-world/</id>
     <published>2017-09-03T15:38:46.000Z</published>
     <updated>2017-09-03T15:38:46.000Z</updated>
     
